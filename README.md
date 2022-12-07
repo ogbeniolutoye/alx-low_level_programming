@@ -1,1 +1,1 @@
-static project
+alx-low level programming root folder
